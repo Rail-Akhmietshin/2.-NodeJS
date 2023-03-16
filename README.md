@@ -6,3 +6,7 @@
 * POSTGRES_PASSWORD
 * POSTGRES_HOST
 * SERVER_PORT
+
+Для запуска:
+
+* npm start
